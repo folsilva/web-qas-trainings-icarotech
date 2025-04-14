@@ -1,0 +1,34 @@
+{
+    "inputs": {
+      "name": "Fernandox",
+      "email": "testefernandox@email.com",
+      "signup-email": "testefernandox@email.com",
+      "password": "senha123",
+      "firstName": "Fernandox",
+      "lastName": "Silva",
+      "company": "SA",
+      "address1": "Rua teste",
+      "address2": "Num 123",
+      "country": "Australia",
+      "state": "Queensland",
+      "city": "Brisbane",
+      "zipcode": "12345",
+      "mobileNumber": "17037019964"
+    },
+    "elements": {
+      "name": "[data-qa='signup-name']",
+      "email": "[data-qa='email']",
+      "emailaddress": "[data-qa='signup-email']",
+      "password": "#password",
+      "firstName": "#first_name",
+      "lastName": "#last_name",
+      "company": "#company",
+      "address1": "#address1",
+      "address2": "#address2",
+      "country": "#country",
+      "state": "#state",
+      "city": "#city",
+      "zipcode": "#zipcode",
+      "mobileNumber": "#mobile_number"
+    }
+  }
